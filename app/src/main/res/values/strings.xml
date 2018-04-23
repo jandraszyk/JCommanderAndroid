@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">JCommander</string>
+    <string name="title_copy">Copy</string>
+    <string name="title_move">Move</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_sort">Sort</string>
+    <string name="title_language">Language</string>
+    <string name="language_change">Change Language</string>
+    <string name="language_polish">Polski</string>
+    <string name="language_english">English</string>
+    <string name="sort_date">By date</string>
+    <string name="sort_name">By name</string>
+    <string name="sort_size">By size</string>
+    <string name="sort_method">Choose sorting method</string>
+    <string name="select_files">Select files before action</string>
+    <string name="cant_select">Can\'t select that</string>
+    <string name="copying_file">Copying file</string>
+    <string name="moving_file">Moving file</string>
+    <string name="deleting_file">Deleting file</string>
+    <string name="wanna_copy">Do you want to copy those files?</string>
+    <string name="wanna_move">Do you want to move those files?</string>
+    <string name="wanna_delete">Do you want to delete those files?</string>
+    <string name="copy_done">File copying is done</string>
+    <string name="delete_done">File deleting is done</string>
+    <string name="moving_done">File moving is done</string>
+    <string name="copy_yes">Yes</string>
+    <string name="copy_no">No</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="dialog_hide">Hide</string>
+    <string name="overwrite">Overwrite?</string>
+
+</resources>

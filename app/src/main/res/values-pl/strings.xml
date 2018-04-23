@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JCommander</string>
+    <string name="title_copy">Kopiuj</string>
+    <string name="title_move">Przenieś</string>
+    <string name="title_delete">Usuń</string>
+    <string name="title_sort">Sortuj</string>
+    <string name="title_language">Język</string>
+    <string name="language_change">Zmień język</string>
+    <string name="language_polish">Polski</string>
+    <string name="language_english">English</string>
+    <string name="sort_date">Wg daty</string>
+    <string name="sort_name">Wg nazwy</string>
+    <string name="sort_size">Wg rozmiaru</string>
+    <string name="sort_method">Wybierz jak chcesz posortować pliki</string>
+    <string name="select_files">Wybierz pliki przed akcją</string>
+    <string name="cant_select">Nie można tego wybrać</string>
+    <string name="wanna_copy">Czy chcesz skopiować te pliki?</string>
+    <string name="wanna_move">Czy chcesz przenieść te pliki?</string>
+    <string name="wanna_delete">Czy chcesz usunąć te pliki?</string>
+    <string name="copy_yes">Tak</string>
+    <string name="copy_no">Nie</string>
+    <string name="cancel_dialog">Anuluj</string>
+    <string name="dialog_hide">Ukryj</string>
+    <string name="moving_file">Przenoszenie pliku</string>
+    <string name="copying_file">Kopiowanie pliku</string>
+    <string name="deleting_file">Usuwanie pliku</string>
+    <string name="copy_done">Kopiowanie pliku zakończone</string>
+    <string name="delete_done">Usuwanie pliku zakończone</string>
+    <string name="moving_done">Przenoszneie pliku zakończone</string>
+    <string name="overwrite">Nadpisać?</string>
+</resources>

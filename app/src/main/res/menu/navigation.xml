@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.janek.jcommanderandroid.MainActivity">
+
+    <item
+        android:id="@+id/navigation_copy"
+        android:icon="@drawable/ic_copy"
+        android:title="@string/title_copy" />
+
+    <item
+        android:id="@+id/navigation_move"
+        android:icon="@drawable/ic_move"
+        android:title="@string/title_move" />
+
+    <item
+        android:id="@+id/navigation_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/title_delete" />
+
+    <item
+        android:id="@+id/navigation_sort"
+        android:icon="@drawable/ic_sort"
+        android:title="@string/title_sort" >
+
+    </item>
+
+
+    <item
+        android:id="@+id/navigation_language"
+        android:icon="@drawable/ic_language"
+        android:title="@string/title_language" />
+
+
+
+</menu>
